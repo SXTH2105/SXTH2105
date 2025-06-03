@@ -72,17 +72,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SXTH2105/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/onenonlyseth2105">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=onenonlyseth2105&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
