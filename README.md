@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Seth and I'm a Software Engineering student year 1, from KIT</h2>
+<h2 align="left">Hi 👋! My name is Seth and I'm a Software Engineering student year 1</h2>
 
 ###
 
