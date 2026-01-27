@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Seth and I'm a Software Engineering student year 1</h2>
+<h2 align="left">Hi 👋! My name is Kong Sokpiseth and I'm a Computer Science specializing in software engineering freshman at CADT</h2>
 
 ###
 
