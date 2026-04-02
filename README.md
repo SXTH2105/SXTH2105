@@ -72,14 +72,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -103,6 +95,10 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/snake.svg" alt="Snake animation" />
 
 ###
 
