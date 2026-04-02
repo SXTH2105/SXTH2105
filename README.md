@@ -72,11 +72,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
-  <img ![Pacman Contribution Graph](https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg)>
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman Dark">
+  <img src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman Light">
+</div>
 
 ###
 
