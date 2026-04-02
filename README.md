@@ -75,7 +75,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
+  <img ![Pacman Contribution Graph](https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg)>
 </picture>
 
 ###
