@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Seth and I'm a Software Engineering student.</h2>
+<h2 align="center">Hi 👋! My name is Seth and I'm a Software Engineering student.</h2>
 
 ###
 
@@ -69,17 +69,21 @@
   <a href="https://t.me/kong_sokpiseth" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://www.facebook.com/seth.875429/?rdid=mOG7vfjNJAug76mI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
   <a href="sokpisethkong68@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/seth.875429/?rdid=mOG7vfjNJAug76mI" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SXTH2105/SXTH2105/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
