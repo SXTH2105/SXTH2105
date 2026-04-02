@@ -1,15 +1,3 @@
-.github/workflows
-
-
-pacman.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B!%20My%20name%20is%20Seth%20and%20I'm%20a%20Software%20Engineering%20student.&fontSize=20&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
