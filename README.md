@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hey%20there!%20I'm%20Seth%20👋&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlign=50&descAlignY=62&theme=tokyonight&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hey%20there!%20I'm%20Seth%20👋&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Undergraduate%20Student%20%&descSize=18&descAlign=50&descAlignY=62&theme=tokyonight&animation=twinkling" width="100%" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Software Engineering student passionate about building things for the web
+- 🎓 Software Engineering student passionate about solving problems for better living
 - 💡 Always exploring new technologies and sharpening my skills
 - 🌏 Based in Cambodia
 - 📬 Reach me at **sokpisethkong68@gmail.com**
